@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1061279741807",
+    "firebase_url": "https://gym-95bdb.firebaseio.com",
+    "project_id": "gym-95bdb",
+    "storage_bucket": "gym-95bdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061279741807:android:a5137e0e94357ceca51a9a",
+        "android_client_info": {
+          "package_name": "com.keithfox.securegym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061279741807-19m0v1qka258b4gb2cdfbus60nh0r6dc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keithfox.securegym",
+            "certificate_hash": "c94a750023e79c8a6086c8f87ba92e7f1f1efb76"
+          }
+        },
+        {
+          "client_id": "1061279741807-arpho16d8nff9tb5494gb0qs7j5cqh60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6-Nd7DeLP88At7pVov7ng4cMwcpxD0aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061279741807-arpho16d8nff9tb5494gb0qs7j5cqh60.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1061279741807-g6a4hv5q9gomrai1esutsfb04ldhtqjm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.keithfox.securegym"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
